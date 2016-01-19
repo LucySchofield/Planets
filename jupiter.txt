@@ -1,1 +1,2 @@
-jupiter
+jupiter's moons are:
+Europa, lo, Ganymede, Callisto, Amalthea, Metis, Adrastea
